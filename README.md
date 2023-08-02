@@ -1,1 +1,7 @@
-# Andaman_Ferry
+
+It is a Frontend design for Online Ferry booking website for Island (Port Blair, Havelock and Neil Island) in Andaman and Nicobar Island. The design is developed in React.js.
+In the first page there are two section. One section for selecting no. of passengers (Adults, Child and Infant) and second section for selecting trip type (One Way, Round Trip and Multiple Trip) which are radio buttons.
+One way Trip is a single trip i.e. from Point A to Point B only. In Round Trip there is also a return trip i.e. from Point A to Point B and then from Point B to Point A. In Multiple Trip user can select up to 5 trips. 
+In second page user has option to select the ferry. There are two ferries. One is “Nautika Lite” and the other is “Green Ocean Ferry”. Both ferry has seat type ( class). Nautika Lite ferry has two classes of seats i.e. Premium and Business class and Green Ocean ferry has three classes Royal, Economy and Luxury class.
+After selection of ferry according to the trip type respectively, user will move to the third page. In third page there are two sections. In first section user has to fill all the details like passenger name, DOB, gender, nationality etc. of no. of passenger(s) he/she has selected in the first page. In the second section user has to fill his/her contact details like full name, mobile no. , email id etc.
+After filling all the details user will move to final page which is payment page where user will make the payment.
